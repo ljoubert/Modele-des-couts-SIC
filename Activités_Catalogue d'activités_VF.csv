@@ -4,10 +4,10 @@ Activités projets,P,Agile,A,AGIPBM, Management du Product Backlog,Tâches de mi
 Activités projets,P,Agile,A,AGIESP,Sprints évolutifs,Sprints concourant à l’enrichissement fonctionnel du produit dans le cadre d'un développement agile.,Directe,Oui,Humaine,Oui
 Activités projets,P,Agile,A,AGICID,Integration continue,Processus de test et déploiement des services / produits de manière agile et automatisée.,Directe,Oui,Humaine,Oui
 Activités projets,P,Agile,A,AGIIND,Coûts projets agiles indifférenciés,Ensemble des coûts liés aux projets agiles quand la distinction plus fine entre les différentes composantes (backlog  sprints  intégration et livraison continues) n'est pas possible,Directe,Oui,Humaine,Oui
-Activités projets,P,Cycle en V,V,PROINI,Initialisation, Etude d'opportunité  pré-étude (peut ne pas donner lieu à un projet) :
+Activités projets,P,Cycle en V,V,PROINI,Initialisation, "Etude d'opportunité  pré-étude (peut ne pas donner lieu à un projet) :
 - Analyse d'un besoin 
 - Etude de la faisabilité 
-- Etude des différents scénarios permettant de répondre au besoin et choix du scénario optimal au regard des enjeux. ,Directe,Oui,Humaine,Non
+- Etude des différents scénarios permettant de répondre au besoin et choix du scénario optimal au regard des enjeux. ",Directe,Oui,Humaine,Non
 Activités projets,P,Cycle en V,V,PRODEF,Définition, Etudes  conception et spécifications :
 - Définition d'une référence fonctionnelle pour l'application 
 - Définition de l'architecture générale et détaillée du système associé 
